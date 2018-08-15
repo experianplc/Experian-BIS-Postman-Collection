@@ -2,25 +2,24 @@
 
 ### Postman is a very popular tool to help make API calls (and much more!).  The Postman Collection and Environment below can be used to quickly start testing Experian APIs.  The Postman Collection includes numerous test examples for each API endpoint for the following products on developer.experian.com
 
-### •	Businesses API 
-```js
-[Businesses API](https://developer.experian.com/product/businesses) - Access via API to Experian’s commercial database of over 25 million active businesses in the US
-```
+### Businesses API 
 
-### •	Business Owners API 
-```js
-[Business Owners API](https://developer.experian.com/product/business-owners) - To approve more small businesses, blending consumer and commercial data will yield more predictive results
-```
+   [Businesses API](https://developer.experian.com/product/businesses) - Access via API to Experian’s commercial database of over 25 million active businesses in the US
 
-### •	Small Business Credit Share API 
-```js
-[Small Business Credit Share API](https://developer.experian.com/product/sbcs) - For SBCS members, access to robust financial tradeline information and trending data
-```
 
-### •	Social Media Insights API 
-```js
-[Social Media Insights API](https://developer.experian.com/product/social-media-insights) - Raw social media data on businesses is transformed into predictive attributes and our Social Media Insight score
-```
+### Business Owners API 
+
+   [Business Owners API](https://developer.experian.com/product/business-owners) - To approve more small businesses, blending consumer and commercial data will yield more predictive results
+
+### Small Business Credit Share API 
+
+   [Small Business Credit Share API](https://developer.experian.com/product/sbcs) - For SBCS members, access to robust financial tradeline information and trending data
+
+
+### Social Media Insights API 
+
+   [Social Media Insights API](https://developer.experian.com/product/social-media-insights) - Raw social media data on businesses is transformed into predictive attributes and our Social Media Insight score
+
 
 ## How to get started:
 
