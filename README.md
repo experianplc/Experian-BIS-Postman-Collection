@@ -1,6 +1,6 @@
 # Experian BIS Postman Collection
 
-### Postman is a very popular tool to help make API calls (and much more!).  The Postman Collection and Environment below can be used to quickly start testing Experian APIs.  The Postman Collection includes numerous test examples for each API endpoint for the following products on developer.experian.com
+### Postman is a [very popular tool](https://www.getpostman.com/) to help make API calls (and much more!).  The Postman Collection and Environment below can be used to quickly start testing Experian APIs.  The Postman Collection includes numerous test examples for each API endpoint for the following products on [developer.experian.com](https://developer.experian.com/)
 
 ### Businesses API 
 
@@ -23,7 +23,7 @@
 
 ## How to get started:
 
-1.	Use of Quick Start Guide to help you create an account and an app for the “Businesses API” on our developer portal
+1.	Use our [Quick Start Guide](https://developer.experian.com/tutorial/quick-start-guide) to help you create an account and an app for the “Businesses API” on our developer portal
 2.	Import the Postman Collection and Environment files into Postman
 3.	Plug in your username, password, client ID, and client secret into the “Get Token” example in the Postman collection
 4.	Ensure the “Businesses Sandbox” environment is selected in Postman
